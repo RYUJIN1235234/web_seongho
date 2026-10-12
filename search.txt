@@ -2,6 +2,7 @@
  
 2.이미지1:https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/8d55/8360b4d49c4e0491af6106a7e1004fd970c81a1333310fac200618ec09a2.jpg
   이미지2:https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/042e/0bedf54aa85bde9c8856dd846ac1c0df634ed24df541f794ec41e94b61a1.jpg
+
 3.참고 사이트1:https://www.coupang.com/vp/products/9751056576?itemId=29197742867&vendorItemId=96118256736&q=%EC%82%AC%EA%B3%BC&searchId=352bb4cd8099528&sourceType=search&rank=2&itemsCount=60&searchRank=2
   참고 사이트2:https://www.coupang.com/vp/products/9768758604?itemId=29239076861&searchId=8f1645ed07034c86aa6419bed425b86a&sourceType=brandstore_sdp_atf&storeId=221191&subSourceType=brandstore_sdp_atf&vendorId=A01127075&vendorItemId=96157638843
   참고 사이트3:https://www.coupang.com/vp/products/9743641062?itemId=29166351796&searchId=8f1645ed07034c86aa6419bed425b86a&sourceType=brandstore_sdp_atf&storeId=221191&subSourceType=brandstore_sdp_atf&vendorId=A01127075&vendorItemId=96088192672
